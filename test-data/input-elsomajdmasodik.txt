@@ -1,0 +1,13 @@
+GT4500,1,0,1,0
+        #kiüríti az elsőt
+TORPEDO,SINGLE
+        #a másodikat
+TORPEDO,SINGLE
+        #itt kifogyott már
+TORPEDO,SINGLE
+        #itt is
+TORPEDO,ALL
+#       Van ág a programban amit ez fog kielégíteni
+TORPEDO,SINGLE
+TORPEDO,ALL
+TORPEDO,SINGLE
